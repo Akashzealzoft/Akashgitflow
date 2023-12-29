@@ -3,6 +3,7 @@ import React from "react";
 export default function Body() {
   return (
     <>
+
       <div>
         Header main color
         <div>
@@ -20,6 +21,13 @@ export default function Body() {
           </p>
         </div>
       </div>
+      <div>Hii welcome to kumar changes
+      <div>
+        <p>MS kumar</p>
+        <p>Edited by kumar</p>
+      </div>
+    </div>
+      
     </>
-  );
+  )
 }
