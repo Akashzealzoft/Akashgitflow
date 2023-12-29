@@ -3,7 +3,6 @@ import React from "react";
 export default function Body() {
   return (
     <>
-
       <div>
         Header main color
         <div>
@@ -12,7 +11,7 @@ export default function Body() {
         </div>
       </div>
       <div>
-        Header main color
+        Header main color changed by akash :)
         <div>
           <p>Dell is my laptop - Akash i made this change</p>
           <p>santhana kumar</p>
@@ -21,13 +20,13 @@ export default function Body() {
           </p>
         </div>
       </div>
-      <div>Hii welcome to kumar changes
       <div>
-        <p>MS kumar</p>
-        <p>Edited by kumar</p>
+        Hii welcome to kumar changes
+        <div>
+          <p>MS kumar</p>
+          <p>Edited by kumar</p>
+        </div>
       </div>
-    </div>
-      
     </>
-  )
+  );
 }
